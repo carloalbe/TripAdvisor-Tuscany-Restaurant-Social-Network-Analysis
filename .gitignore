@@ -1,0 +1,15 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#graphs.graphml
+*.graphml
+*.weighted.edgelist
+*.edgelist
+*.adjlist
+
+
+
+
+# crawled jsons 
+data_collection/data
