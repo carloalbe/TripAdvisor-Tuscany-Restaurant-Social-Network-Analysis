@@ -4,8 +4,7 @@
 
 #graphs.graphml
 *.graphml
-*.weighted.edgelist
-*.edgelist
+
 
 
 
